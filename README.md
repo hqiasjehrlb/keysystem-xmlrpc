@@ -27,5 +27,9 @@ keysystem.request('CheckDomain', s_login, s_pw, { DOMAIN: 'checkthis.la' })
   });
 ```
 
+## Dependencies
+* xmlrpc
+* lodash
+
 ## More infomation
 See official [wiki](https://wiki.rrpproxy.net/api/api-commands/api-command-reference)
